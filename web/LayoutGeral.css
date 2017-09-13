@@ -1,0 +1,33 @@
+body
+{
+    background-color: burlywood;
+}
+
+#Titulo
+{
+    position: absolute;
+    left: 42%
+}
+
+#Campos
+{
+    position: absolute;
+    left: 40%;
+    top: 10%;
+    
+    background-color: bisque;
+    border-color: #000;
+    border-left: 4px solid #000;
+    border-right: 4px solid #000;;
+    border-top: 4px solid #000;
+    border-bottom: 4px solid #000;;
+    border-radius: 0px;
+    box-shadow: lightgrey 0.5em 0.5em 0.5em 0.5em;
+}
+
+#botoes
+{
+    position: absolute;
+    top: 25%;
+    left: 48%;
+}
