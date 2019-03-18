@@ -12,8 +12,8 @@ Desenvolvimento em JSP (Java Server Pages) com inserção de dados, atualizaçã
 
 | LOGIN | LISTA |
 | --- | --- |
-| <img src="https://uploaddeimagens.com.br/images/001/967/528/original/1.png" width="415" height="200" /> | <img src="https://uploaddeimagens.com.br/images/001/967/529/original/2.png" width="415" height="200" />
+| <img src="https://uploaddeimagens.com.br/images/001/967/528/original/1.png" width="420" height="200" /> | <img src="https://uploaddeimagens.com.br/images/001/967/529/original/2.png" width="420" height="200" />
 
 | CADASTRO |
 | --- |
-| <img src="https://uploaddeimagens.com.br/images/001/967/531/original/5.png" width="415" height="200" />
+| <img src="https://uploaddeimagens.com.br/images/001/967/531/original/5.png" width="420" height="200" />
